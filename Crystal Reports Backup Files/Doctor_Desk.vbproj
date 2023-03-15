@@ -1,0 +1,486 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6A7D0644-064A-4383-8235-17D9BBEB5F53}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Doctor_Desk.My.MyApplication</StartupObject>
+    <RootNamespace>Doctor_Desk</RootNamespace>
+    <AssemblyName>Doctor_Desk</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>I:\Ronak Naroda\Soft\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>9</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Doctor_Desk.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Doctor_Desk.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>6D7A722B451EB9E21282BF024ACB1856B13B8493</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Doctor_Desk_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Doctor_Desk.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.SqlServerCe, Version=3.5.1.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bill_Payment.Designer.vb">
+      <DependentUpon>Bill_Payment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bill_Payment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Branded_Medicine.Designer.vb">
+      <DependentUpon>Branded_Medicine.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Branded_Medicine.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultant_Master.Designer.vb">
+      <DependentUpon>Consultant_Master.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Consultant_Master.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Daily_Visited_Patient.Designer.vb">
+      <DependentUpon>Daily_Visited_Patient.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Daily_Visited_Patient.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="doctors_deskDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>doctors_deskDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="doctors_deskDataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>doctors_deskDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="doctors_deskDataSet2.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>doctors_deskDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="doctors_deskDataSet3.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>doctors_deskDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fitness_Certificate.Designer.vb">
+      <DependentUpon>Fitness_Certificate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fitness_Certificate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Generic_Medicine_List.Designer.vb">
+      <DependentUpon>Generic_Medicine_List.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Generic_Medicine_List.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.vb">
+      <DependentUpon>Home.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Home.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImportData.Designer.vb">
+      <DependentUpon>ImportData.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ImportData.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Leave_Certificate.Designer.vb">
+      <DependentUpon>Leave_Certificate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Leave_Certificate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medicine_Purchase_Details.Designer.vb">
+      <DependentUpon>Medicine_Purchase_Details.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Medicine_Purchase_Details.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medicine_Purchase_Report.Designer.vb">
+      <DependentUpon>Medicine_Purchase_Report.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Medicine_Purchase_Report.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medicine_Supplier.Designer.vb">
+      <DependentUpon>Medicine_Supplier.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Medicine_Supplier.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Patient_Treatment_Main.Designer.vb">
+      <DependentUpon>Patient_Treatment_Main.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Patient_Treatment_Main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Patient_Tretment.Designer.vb">
+      <DependentUpon>Patient_Tretment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Patient_Tretment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sen_Handicaped_Certificate.Designer.vb">
+      <DependentUpon>Sen_Handicaped_Certificate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Sen_Handicaped_Certificate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Splash.Designer.vb">
+      <DependentUpon>Splash.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Splash.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UnFit.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>UnFit.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UnFIt_Certificate.Designer.vb">
+      <DependentUpon>UnFIt_Certificate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UnFIt_Certificate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report_Unfit.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Report_Unfit.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportView.Designer.vb">
+      <DependentUpon>ReportView.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ReportView.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User_Master.Designer.vb">
+      <DependentUpon>User_Master.vb</DependentUpon>
+    </Compile>
+    <Compile Include="User_Master.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Bill_Payment.resx">
+      <DependentUpon>Bill_Payment.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Branded_Medicine.resx">
+      <DependentUpon>Branded_Medicine.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultant_Master.resx">
+      <DependentUpon>Consultant_Master.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Daily_Visited_Patient.resx">
+      <DependentUpon>Daily_Visited_Patient.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fitness_Certificate.resx">
+      <DependentUpon>Fitness_Certificate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Generic_Medicine_List.resx">
+      <DependentUpon>Generic_Medicine_List.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImportData.resx">
+      <DependentUpon>ImportData.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Leave_Certificate.resx">
+      <DependentUpon>Leave_Certificate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medicine_Purchase_Details.resx">
+      <DependentUpon>Medicine_Purchase_Details.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medicine_Purchase_Report.resx">
+      <DependentUpon>Medicine_Purchase_Report.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medicine_Supplier.resx">
+      <DependentUpon>Medicine_Supplier.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Patient_Treatment_Main.resx">
+      <DependentUpon>Patient_Treatment_Main.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Patient_Tretment.resx">
+      <DependentUpon>Patient_Tretment.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sen_Handicaped_Certificate.resx">
+      <DependentUpon>Sen_Handicaped_Certificate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Splash.resx">
+      <DependentUpon>Splash.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UnFit.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>UnFit.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UnFIt_Certificate.resx">
+      <DependentUpon>UnFIt_Certificate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report_Unfit.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Report_Unfit.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportView.resx">
+      <DependentUpon>ReportView.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_Master.resx">
+      <DependentUpon>User_Master.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="doctors_deskDataSet.xsc">
+      <DependentUpon>doctors_deskDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="doctors_deskDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>doctors_deskDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="doctors_deskDataSet.xss">
+      <DependentUpon>doctors_deskDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="doctors_deskDataSet1.xsc">
+      <DependentUpon>doctors_deskDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="doctors_deskDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>doctors_deskDataSet1.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="doctors_deskDataSet1.xss">
+      <DependentUpon>doctors_deskDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="doctors_deskDataSet2.xsc">
+      <DependentUpon>doctors_deskDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="doctors_deskDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>doctors_deskDataSet2.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="doctors_deskDataSet2.xss">
+      <DependentUpon>doctors_deskDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="doctors_deskDataSet3.xsc">
+      <DependentUpon>doctors_deskDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="doctors_deskDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>doctors_deskDataSet3.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="doctors_deskDataSet3.xss">
+      <DependentUpon>doctors_deskDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="Doctor_Desk_TemporaryKey.pfx" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="doctors_desk.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="doctors_desk_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>doctors_desk.mdf</DependentUpon>
+    </Content>
+    <Content Include="Doctor_Desk.ico" />
+    <Content Include="icon1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.SQL.Server.Compact.3.5">
+      <Visible>False</Visible>
+      <ProductName>SQL Server Compact 3.5 SP2</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Sql.Server.Express.10.0">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2008 Express</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
