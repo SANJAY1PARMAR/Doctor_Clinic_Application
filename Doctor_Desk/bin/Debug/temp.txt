@@ -1,0 +1,42 @@
+****** Processor Information ******
+
+Name
+
+
+ID
+
+
+Description
+
+
+Manufacturer
+
+
+L2 Cache Size
+
+
+Clock Speed
+
+
+Data Width
+
+
+Ext Clock
+
+
+Family
+
+
+****** MotherBoard Information *****
+
+Name
+
+
+Manufacturer
+
+
+Description
+
+
+Serial Number
+
