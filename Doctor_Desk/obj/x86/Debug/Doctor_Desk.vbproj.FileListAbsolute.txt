@@ -1,0 +1,594 @@
+H:\Doctor Desk\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.exe
+H:\Doctor Desk\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.pdb
+H:\Doctor Desk\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.xml
+H:\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Login.resources
+H:\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Resources.resources
+H:\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Splash.resources
+H:\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.vbproj.GenerateResource.Cache
+H:\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.exe
+H:\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.xml
+H:\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.pdb
+H:\Doctor Desk\Doctor_Desk\Doctor_Desk\bin\Debug\doctors_desk.mdf
+H:\Doctor Desk\Doctor_Desk\Doctor_Desk\bin\Debug\doctors_desk_log.ldf
+H:\Doctor Desk\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.exe.config
+H:\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Home.resources
+H:\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Reg.resources
+H:\New folder\Doctor Desk\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.exe.config
+H:\New folder\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.exe
+H:\New folder\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.xml
+H:\New folder\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.pdb
+H:\New folder\Doctor Desk\Doctor_Desk\Doctor_Desk\bin\Debug\doctors_desk.mdf
+H:\New folder\Doctor Desk\Doctor_Desk\Doctor_Desk\bin\Debug\doctors_desk_log.ldf
+H:\New folder\Doctor Desk\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.exe
+H:\New folder\Doctor Desk\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.pdb
+H:\New folder\Doctor Desk\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.xml
+H:\New folder\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Home.resources
+H:\New folder\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Login.resources
+H:\New folder\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Resources.resources
+H:\New folder\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Reg.resources
+H:\New folder\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Splash.resources
+H:\New folder\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.vbproj.GenerateResource.Cache
+H:\New folder\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.frmchangepws.resources
+H:\New folder\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.frmmedicinesupplierview.resources
+H:\New folder\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Medicine_Supplier.resources
+H:\New folder\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Branded_Medicine.resources
+H:\New folder\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.frmBM.resources
+H:\New folder\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Bill_Payment.resources
+H:\New folder\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Designation_Master.resources
+H:\New folder\Doctor Desk\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.exe.manifest
+H:\New folder\Doctor Desk\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.application
+H:\New folder\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.exe.manifest
+H:\New folder\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.application
+H:\New folder\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.View_Designation.resources
+H:\New folder\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.View_User.resources
+H:\New folder\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Login_Create.resources
+H:\New folder\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.View_Login.resources
+H:\New folder\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Consultant_Master.resources
+H:\New folder\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Medicine_Purchase_Details.resources
+H:\New folder\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Patient_Tretment.resources
+H:\New folder\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Daily_Visited_Patient.resources
+H:\New folder\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.ImportData.resources
+H:\New folder\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Medicine_Purchase_Report.resources
+H:\New folder\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.frmReport.resources
+J:\Ronak Naroda\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.exe.config
+J:\Ronak Naroda\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.exe
+J:\Ronak Naroda\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.xml
+J:\Ronak Naroda\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.pdb
+J:\Ronak Naroda\Doctor_Desk\Doctor_Desk\bin\Debug\doctors_desk.mdf
+J:\Ronak Naroda\Doctor_Desk\Doctor_Desk\bin\Debug\doctors_desk_log.ldf
+J:\Ronak Naroda\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.exe.manifest
+J:\Ronak Naroda\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.application
+J:\Ronak Naroda\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.exe
+J:\Ronak Naroda\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.pdb
+J:\Ronak Naroda\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.xml
+J:\Ronak Naroda\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.vbprojResolveAssemblyReference.cache
+J:\Ronak Naroda\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Bill_Payment.resources
+J:\Ronak Naroda\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Branded_Medicine.resources
+J:\Ronak Naroda\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Consultant_Master.resources
+J:\Ronak Naroda\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Daily_Visited_Patient.resources
+J:\Ronak Naroda\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Designation_Master.resources
+J:\Ronak Naroda\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.frmBM.resources
+J:\Ronak Naroda\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.frmbrandedmedicine.resources
+J:\Ronak Naroda\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.frmchangepws.resources
+J:\Ronak Naroda\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.frmmedicinesupplierview.resources
+J:\Ronak Naroda\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.frmReport.resources
+J:\Ronak Naroda\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Home.resources
+J:\Ronak Naroda\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.ImportData.resources
+J:\Ronak Naroda\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Login.resources
+J:\Ronak Naroda\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Login_Create.resources
+J:\Ronak Naroda\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Medicine_Purchase_Details.resources
+J:\Ronak Naroda\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Medicine_Purchase_Report.resources
+J:\Ronak Naroda\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Medicine_Supplier.resources
+J:\Ronak Naroda\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Resources.resources
+J:\Ronak Naroda\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Patient_Tretment.resources
+J:\Ronak Naroda\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Reg.resources
+J:\Ronak Naroda\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Splash.resources
+J:\Ronak Naroda\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.View_Designation.resources
+J:\Ronak Naroda\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.View_Login.resources
+J:\Ronak Naroda\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.View_User.resources
+J:\Ronak Naroda\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.vbproj.GenerateResource.Cache
+J:\Ronak Naroda\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.exe.manifest
+J:\Ronak Naroda\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.application
+H:\New folder\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.vbprojResolveAssemblyReference.cache
+H:\New folder\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Medicine_Master.resources
+H:\New folder\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Generic_Medicine_List.resources
+H:\New folder\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.GetGenericMedicineList.resources
+H:\New folder\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.GetBrandedMedicineList.resources
+J:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.exe.config
+J:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.exe
+J:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.xml
+J:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.pdb
+J:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\bin\Debug\doctors_desk.mdf
+J:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\bin\Debug\doctors_desk_log.ldf
+J:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.exe.manifest
+J:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.application
+J:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.exe
+J:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.pdb
+J:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.xml
+J:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Bill_Payment.resources
+J:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Branded_Medicine.resources
+J:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Consultant_Master.resources
+J:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Daily_Visited_Patient.resources
+J:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Designation_Master.resources
+J:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.frmBM.resources
+J:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.frmchangepws.resources
+J:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Generic_Medicine_List.resources
+J:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.frmmedicinesupplierview.resources
+J:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.frmReport.resources
+J:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.GetBrandedMedicineList.resources
+J:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.GetGenericMedicineList.resources
+J:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Home.resources
+J:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.ImportData.resources
+J:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Login.resources
+J:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Login_Create.resources
+J:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Medicine_Master.resources
+J:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Medicine_Purchase_Details.resources
+J:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Medicine_Purchase_Report.resources
+J:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Medicine_Supplier.resources
+J:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Resources.resources
+J:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Patient_Tretment.resources
+J:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Reg.resources
+J:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Splash.resources
+J:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.View_Designation.resources
+J:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.View_Login.resources
+J:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.View_User.resources
+J:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.vbproj.GenerateResource.Cache
+J:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.exe.manifest
+J:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.application
+J:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.User_Master.resources
+I:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.exe.config
+I:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.exe
+I:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.xml
+I:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.pdb
+I:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\bin\Debug\doctors_desk.mdf
+I:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\bin\Debug\doctors_desk_log.ldf
+I:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.exe.manifest
+I:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.application
+I:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.exe
+I:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.pdb
+I:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.xml
+I:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Bill_Payment.resources
+I:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Branded_Medicine.resources
+I:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Consultant_Master.resources
+I:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Daily_Visited_Patient.resources
+I:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Designation_Master.resources
+I:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.frmBM.resources
+I:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.frmchangepws.resources
+I:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Generic_Medicine_List.resources
+I:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.frmmedicinesupplierview.resources
+I:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.frmReport.resources
+I:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.GetBrandedMedicineList.resources
+I:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.GetGenericMedicineList.resources
+I:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Home.resources
+I:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.ImportData.resources
+I:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Login.resources
+I:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Login_Create.resources
+I:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Medicine_Master.resources
+I:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Medicine_Purchase_Details.resources
+I:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Medicine_Purchase_Report.resources
+I:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Medicine_Supplier.resources
+I:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Resources.resources
+I:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Patient_Tretment.resources
+I:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Reg.resources
+I:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Splash.resources
+I:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.User_Master.resources
+I:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.View_Designation.resources
+I:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.View_Login.resources
+I:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.View_User.resources
+I:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.vbproj.GenerateResource.Cache
+I:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.exe.manifest
+I:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.application
+J:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.vbprojResolveAssemblyReference.cache
+I:\Ronak Naroda\Doctor Desk\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.vbprojResolveAssemblyReference.cache
+I:\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.exe.config
+I:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.exe
+I:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.xml
+I:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.pdb
+I:\Doctor_Desk\Doctor_Desk\bin\Debug\doctors_desk.mdf
+I:\Doctor_Desk\Doctor_Desk\bin\Debug\doctors_desk_log.ldf
+I:\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.exe.manifest
+I:\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.application
+I:\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.exe
+I:\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.pdb
+I:\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.xml
+I:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Bill_Payment.resources
+I:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Branded_Medicine.resources
+I:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Consultant_Master.resources
+I:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Daily_Visited_Patient.resources
+I:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Generic_Medicine_List.resources
+I:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Home.resources
+I:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.ImportData.resources
+I:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Login.resources
+I:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Medicine_Purchase_Details.resources
+I:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Medicine_Purchase_Report.resources
+I:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Medicine_Supplier.resources
+I:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Resources.resources
+I:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Patient_Tretment.resources
+I:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Splash.resources
+I:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.User_Master.resources
+I:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.vbproj.GenerateResource.Cache
+I:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.exe.manifest
+I:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.application
+I:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.TrustInfo.xml
+J:\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.exe.config
+J:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.exe
+J:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.xml
+J:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.pdb
+J:\Doctor_Desk\Doctor_Desk\bin\Debug\doctors_desk.mdf
+J:\Doctor_Desk\Doctor_Desk\bin\Debug\doctors_desk_log.ldf
+J:\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.exe.manifest
+J:\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.application
+J:\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.exe
+J:\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.pdb
+J:\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.xml
+J:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Bill_Payment.resources
+J:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Branded_Medicine.resources
+J:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Consultant_Master.resources
+J:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Daily_Visited_Patient.resources
+J:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Generic_Medicine_List.resources
+J:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Home.resources
+J:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.ImportData.resources
+J:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Login.resources
+J:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Medicine_Purchase_Details.resources
+J:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Medicine_Purchase_Report.resources
+J:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Medicine_Supplier.resources
+J:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Resources.resources
+J:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Patient_Tretment.resources
+J:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Splash.resources
+J:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.User_Master.resources
+J:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.vbproj.GenerateResource.Cache
+J:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.TrustInfo.xml
+J:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.exe.manifest
+J:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.application
+J:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Fitness_Certificate.resources
+J:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Patient_Treatment_Main.resources
+I:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Fitness_Certificate.resources
+I:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Patient_Treatment_Main.resources
+I:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Leave_Certificate.resources
+I:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Sen_Handicaped_Certificate.resources
+I:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.UnFIt_Certificate.resources
+I:\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+I:\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportSource.dll
+I:\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.Shared.dll
+I:\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.Windows.Forms.dll
+I:\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+I:\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+I:\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+I:\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+I:\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+I:\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+I:\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+I:\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+I:\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+I:\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+I:\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+I:\Doctor_Desk\Doctor_Desk\bin\Debug\FlashControlV71.dll
+I:\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+I:\Doctor_Desk\Doctor_Desk\bin\Debug\stdole.dll
+I:\Doctor_Desk\Doctor_Desk\bin\Debug\ShockwaveFlashObjects.dll
+I:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.ReportView.resources
+J:\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+J:\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportSource.dll
+J:\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.Shared.dll
+J:\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.Windows.Forms.dll
+J:\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+J:\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+J:\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+J:\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+J:\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+J:\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+J:\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+J:\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+J:\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+J:\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+J:\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+J:\Doctor_Desk\Doctor_Desk\bin\Debug\FlashControlV71.dll
+J:\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+J:\Doctor_Desk\Doctor_Desk\bin\Debug\stdole.dll
+J:\Doctor_Desk\Doctor_Desk\bin\Debug\ShockwaveFlashObjects.dll
+J:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.vbprojResolveAssemblyReference.cache
+J:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Leave_Certificate.resources
+J:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Sen_Handicaped_Certificate.resources
+J:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.UnFIt_Certificate.resources
+J:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.ReportView.resources
+I:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Form1.resources
+I:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.vbprojResolveAssemblyReference.cache
+I:\ToDay\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.exe.config
+I:\ToDay\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.exe
+I:\ToDay\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.xml
+I:\ToDay\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.pdb
+I:\ToDay\Doctor_Desk\Doctor_Desk\bin\Debug\doctors_desk.mdf
+I:\ToDay\Doctor_Desk\Doctor_Desk\bin\Debug\doctors_desk_log.ldf
+I:\ToDay\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.exe.manifest
+I:\ToDay\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.application
+I:\ToDay\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.exe
+I:\ToDay\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.pdb
+I:\ToDay\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.xml
+I:\ToDay\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+I:\ToDay\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportSource.dll
+I:\ToDay\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.Shared.dll
+I:\ToDay\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.Windows.Forms.dll
+I:\ToDay\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+I:\ToDay\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+I:\ToDay\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+I:\ToDay\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+I:\ToDay\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+I:\ToDay\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+I:\ToDay\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+I:\ToDay\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+I:\ToDay\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+I:\ToDay\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+I:\ToDay\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+I:\ToDay\Doctor_Desk\Doctor_Desk\bin\Debug\FlashControlV71.dll
+I:\ToDay\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+I:\ToDay\Doctor_Desk\Doctor_Desk\bin\Debug\stdole.dll
+I:\ToDay\Doctor_Desk\Doctor_Desk\bin\Debug\ShockwaveFlashObjects.dll
+I:\ToDay\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.vbprojResolveAssemblyReference.cache
+I:\ToDay\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Bill_Payment.resources
+I:\ToDay\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Branded_Medicine.resources
+I:\ToDay\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Consultant_Master.resources
+I:\ToDay\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Daily_Visited_Patient.resources
+I:\ToDay\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Fitness_Certificate.resources
+I:\ToDay\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Form1.resources
+I:\ToDay\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Generic_Medicine_List.resources
+I:\ToDay\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Home.resources
+I:\ToDay\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.ImportData.resources
+I:\ToDay\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Leave_Certificate.resources
+I:\ToDay\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Login.resources
+I:\ToDay\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Medicine_Purchase_Details.resources
+I:\ToDay\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Medicine_Purchase_Report.resources
+I:\ToDay\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Medicine_Supplier.resources
+I:\ToDay\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Resources.resources
+I:\ToDay\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Patient_Treatment_Main.resources
+I:\ToDay\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Patient_Tretment.resources
+I:\ToDay\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Sen_Handicaped_Certificate.resources
+I:\ToDay\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Splash.resources
+I:\ToDay\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.UnFIt_Certificate.resources
+I:\ToDay\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.ReportView.resources
+I:\ToDay\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.User_Master.resources
+I:\ToDay\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.vbproj.GenerateResource.Cache
+I:\ToDay\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.TrustInfo.xml
+I:\ToDay\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.exe.manifest
+I:\ToDay\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.application
+J:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Form1.resources
+I:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.frmAbout.resources
+I:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.MDIParent1.resources
+F:\New folder\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.exe.config
+F:\New folder\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.exe
+F:\New folder\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.xml
+F:\New folder\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.pdb
+F:\New folder\Doctor_Desk\Doctor_Desk\bin\Debug\doctors_desk.mdf
+F:\New folder\Doctor_Desk\Doctor_Desk\bin\Debug\doctors_desk_log.ldf
+F:\New folder\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.exe.manifest
+F:\New folder\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.application
+F:\New folder\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.exe
+F:\New folder\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.pdb
+F:\New folder\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.xml
+F:\New folder\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\New folder\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\New folder\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.Shared.dll
+F:\New folder\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\New folder\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\New folder\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\New folder\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\New folder\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\New folder\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\New folder\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\New folder\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\New folder\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\New folder\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\New folder\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\New folder\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\New folder\Doctor_Desk\Doctor_Desk\bin\Debug\FlashControlV71.dll
+F:\New folder\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\New folder\Doctor_Desk\Doctor_Desk\bin\Debug\stdole.dll
+F:\New folder\Doctor_Desk\Doctor_Desk\bin\Debug\ShockwaveFlashObjects.dll
+F:\New folder\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.vbprojResolveAssemblyReference.cache
+F:\New folder\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Bill_Payment.resources
+F:\New folder\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Branded_Medicine.resources
+F:\New folder\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Consultant_Master.resources
+F:\New folder\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Daily_Visited_Patient.resources
+F:\New folder\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Fitness_Certificate.resources
+F:\New folder\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Form1.resources
+F:\New folder\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.frmAbout.resources
+F:\New folder\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Generic_Medicine_List.resources
+F:\New folder\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Home.resources
+F:\New folder\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.ImportData.resources
+F:\New folder\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Leave_Certificate.resources
+F:\New folder\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Login.resources
+F:\New folder\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.MDIParent1.resources
+F:\New folder\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Medicine_Purchase_Details.resources
+F:\New folder\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Medicine_Purchase_Report.resources
+F:\New folder\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Medicine_Supplier.resources
+F:\New folder\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Resources.resources
+F:\New folder\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Patient_Treatment_Main.resources
+F:\New folder\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Patient_Tretment.resources
+F:\New folder\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Sen_Handicaped_Certificate.resources
+F:\New folder\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Splash.resources
+F:\New folder\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.UnFIt_Certificate.resources
+F:\New folder\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.ReportView.resources
+F:\New folder\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.User_Master.resources
+F:\New folder\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.vbproj.GenerateResource.Cache
+F:\New folder\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.TrustInfo.xml
+F:\New folder\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.exe.manifest
+F:\New folder\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.application
+F:\New folder\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.PTD.resources
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.exe.config
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.exe
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.xml
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.pdb
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\bin\Debug\doctors_desk.mdf
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\bin\Debug\doctors_desk_log.ldf
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.exe.manifest
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.application
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.exe
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.pdb
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.xml
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportSource.dll
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.Shared.dll
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.Windows.Forms.dll
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\bin\Debug\FlashControlV71.dll
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\bin\Debug\stdole.dll
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\bin\Debug\ShockwaveFlashObjects.dll
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Bill_Payment.resources
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Branded_Medicine.resources
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Consultant_Master.resources
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Daily_Visited_Patient.resources
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Fitness_Certificate.resources
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Form1.resources
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.frmAbout.resources
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Generic_Medicine_List.resources
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Home.resources
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.ImportData.resources
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Leave_Certificate.resources
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Login.resources
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.MDIParent1.resources
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Medicine_Purchase_Details.resources
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Medicine_Purchase_Report.resources
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Medicine_Supplier.resources
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Resources.resources
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Patient_Treatment_Main.resources
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Patient_Tretment.resources
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.PTD.resources
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Sen_Handicaped_Certificate.resources
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Splash.resources
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.UnFIt_Certificate.resources
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.ReportView.resources
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.User_Master.resources
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.vbproj.GenerateResource.Cache
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.TrustInfo.xml
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.exe.manifest
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.application
+I:\27-01-2023\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.vbprojResolveAssemblyReference.cache
+F:\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.exe.config
+F:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.exe
+F:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.xml
+F:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.pdb
+F:\Doctor_Desk\Doctor_Desk\bin\Debug\doctors_desk.mdf
+F:\Doctor_Desk\Doctor_Desk\bin\Debug\doctors_desk_log.ldf
+F:\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.exe.manifest
+F:\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.application
+F:\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.exe
+F:\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.pdb
+F:\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.xml
+F:\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.Shared.dll
+F:\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\Doctor_Desk\Doctor_Desk\bin\Debug\FlashControlV71.dll
+F:\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\Doctor_Desk\Doctor_Desk\bin\Debug\stdole.dll
+F:\Doctor_Desk\Doctor_Desk\bin\Debug\ShockwaveFlashObjects.dll
+F:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.vbprojResolveAssemblyReference.cache
+F:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Bill_Payment.resources
+F:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Branded_Medicine.resources
+F:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Consultant_Master.resources
+F:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Daily_Visited_Patient.resources
+F:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Fitness_Certificate.resources
+F:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Form1.resources
+F:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.frmAbout.resources
+F:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Generic_Medicine_List.resources
+F:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Home.resources
+F:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.ImportData.resources
+F:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Leave_Certificate.resources
+F:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Login.resources
+F:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.MDIParent1.resources
+F:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Medicine_Purchase_Details.resources
+F:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Medicine_Purchase_Report.resources
+F:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Medicine_Supplier.resources
+F:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Resources.resources
+F:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Patient_Treatment_Main.resources
+F:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Patient_Tretment.resources
+F:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.PTD.resources
+F:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Sen_Handicaped_Certificate.resources
+F:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Splash.resources
+F:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.UnFIt_Certificate.resources
+F:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.ReportView.resources
+F:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.User_Master.resources
+F:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.vbproj.GenerateResource.Cache
+F:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.TrustInfo.xml
+F:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.exe.manifest
+F:\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.application
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.exe.config
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.exe
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.xml
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.pdb
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\bin\Debug\doctors_desk.mdf
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\bin\Debug\doctors_desk_log.ldf
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.exe.manifest
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.application
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.exe
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.pdb
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\bin\Debug\Doctor_Desk.xml
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\bin\Debug\FlashControlV71.dll
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\bin\Debug\stdole.dll
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Bill_Payment.resources
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Branded_Medicine.resources
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Consultant_Master.resources
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Daily_Visited_Patient.resources
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Fitness_Certificate.resources
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.frmAbout.resources
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Generic_Medicine_List.resources
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Home.resources
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Leave_Certificate.resources
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Login.resources
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.MDIParent1.resources
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Medicine_Purchase_Details.resources
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Medicine_Purchase_Report.resources
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Medicine_Supplier.resources
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Resources.resources
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Patient_Treatment_Main.resources
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Patient_Tretment.resources
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.PTD.resources
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Sen_Handicaped_Certificate.resources
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Splash.resources
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.UnFIt_Certificate.resources
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.ReportView.resources
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.User_Master.resources
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.vbproj.GenerateResource.Cache
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.TrustInfo.xml
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.exe.manifest
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.application
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.vbprojResolveAssemblyReference.cache
+C:\Users\Internal Infosys\Downloads\Doctor_Desk\Doctor_Desk\obj\x86\Debug\Doctor_Desk.Backup.resources
